@@ -16,10 +16,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdruhulkuddus&show_icons=true&locale=en" alt="mdruhulkuddus" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdruhulkuddus&" alt="mdruhulkuddus" /></p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mdruhulkuddus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdruhulkuddus" height="30" width="40" /></a>
-<a href="https://fb.com/ruhulkuddus123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruhulkuddus123" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ruhul_kuddus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ruhul_kuddus" height="30" width="40" /></a>
-</p>
