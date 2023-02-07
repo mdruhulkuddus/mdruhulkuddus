@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [EbookShare](https://github.com/mdruhulkuddus/EbookShare)
 
-- 💬 Ask me about **OOP, DSA, CS**
+- 💬 Ask me about **OOP, DSA, C, C++ CS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
