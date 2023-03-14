@@ -6,7 +6,7 @@
 - **Expertise:** C, C++, PHP & Laravel
 - **FrontEnd:** HTML, CSS, Boostrap & JavaSript
 - **Database:** MySQL
-- **Familiar:** Java, Python & MongoDB
+- **Familiar:** Java, Python 
 
 ## Currently doing
 - 💬 I’m currently developing [EbookShare](https://github.com/mdruhulkuddus/EbookShare)
