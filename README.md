@@ -3,10 +3,10 @@
 
 ## Skills
 - OOP, Data Structures & Algorithms, Competitive Programming.
-- **Expertise:** C, C++, PHP & Laravel
-- **FrontEnd:** HTML, CSS, Boostrap & JavaSript
+- **Expertise:** PHP & Laravel
+- **FrontEnd:** HTML, CSS, Boostrap & JavaScript
 - **Database:** MySQL
-- **Familiar:** Java, Python 
+- **Familiar:** C, C++, Java, Python 
 
 ## Currently doing
 - 💬 I’m currently developing [EbookShare](https://github.com/mdruhulkuddus/EbookShare)
