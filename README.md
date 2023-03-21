@@ -3,7 +3,7 @@
 
 ## Skills
 - OOP, Data Structures & Algorithms, Competitive Programming.
-- **Expertise:** PHP & Laravel
+- **Expertise(BackEnd):** PHP & Laravel
 - **FrontEnd:** HTML, CSS, Boostrap & JavaScript
 - **Database:** MySQL
 - **Familiar:** C, C++, Java, Python 
