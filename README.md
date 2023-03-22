@@ -14,5 +14,5 @@
 - 👁‍🗨 Focusing on **software engineering best practices**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdruhulkuddus&label=Profile%20views&color=0e75b6&style=flat" alt="mdruhulkuddus" /> </p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdruhulkuddus&show_icons=true&locale=en" alt="mdruhulkuddus" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdruhulkuddus&" alt="mdruhulkuddus" /></p>
