@@ -2,7 +2,7 @@
 <p align="justify">I'm a learner. I'm a self-motivated and passionate problem solver, participated in several programming contests including ICPC. I'm also enthusiastic about modern software development and have expertise in different frameworks and libraries. My goal is to be the best software engineer. I have the ability to think and work under pressure. I'm doing my best for my career.</p>
 
 ## Skills
-- OOP, Data Structures & Algorithms, Competitive Programming.
+- OOP, Data Structures & Algorithms, Programming Fundamentals, Problem Solving, Competitive Programming.
 - **Expertise (BackEnd):** PHP & Laravel
 - **FrontEnd:** HTML, CSS, Bootstrap & JavaScript
 - **Database:** MySQL
