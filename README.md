@@ -2,11 +2,11 @@
 <p align="justify">I'm a learner. I'm a self-motivated and passionate problem solver, participated in several programming contests including ICPC. I'm also enthusiastic about modern software development and have expertise in different frameworks and libraries. My goal is to be the best software engineer. I have the ability to think and work under pressure. I'm doing my best for my career.</p>
 
 ## Skills
-- OOP, Data Structures & Algorithms, Programming Fundamentals, Problem Solving, Competitive Programming.
+- OOP, Data Structures and algorithms, Programming Fundamentals, Problem Solving, Competitive Programming.
 - **Expertise (BackEnd):** PHP & Laravel
 - **FrontEnd:** HTML, CSS, Bootstrap & JavaScript
 - **Database:** MySQL
-- **Familiar:** C, C++, Java, Python 
+- **Familiar:** C, C++, Java, Python & ML
 
 ## Currently doing
 - 💬 I’m currently developing [Inventory Management System](https://github.com/mdruhulkuddus/Inventory-Management-System-POS/)
