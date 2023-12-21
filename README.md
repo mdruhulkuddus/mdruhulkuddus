@@ -1,5 +1,5 @@
 <h2 align="left">Md. Ruhul Kuddus - Programmer</h2>
-<p align="justify">I'm a learner. I'm a self-motivated and passionate problem solver, participated in several programming contests including ICPC. I'm also enthusiastic about modern software development and have expertise in different frameworks and libraries. My goal is to be the best software engineer. I have the ability to think and work under pressure. I'm doing my best for my career.</p>
+<p align="justify">I'm a learner. I'm a self-motivated and passionate problem solver, participated in several programming contests including ICPC. I'm also enthusiastic about modern software development and have expertise in different frameworks and libraries. My goal is to be the best software engineer. I can think and work under pressure. I'm doing my best for my career.</p>
 
 ## Skills
 - OOP, Data Structures and algorithms, Programming Fundamentals, Problem Solving, Competitive Programming.
@@ -7,6 +7,11 @@
 - **FrontEnd:** HTML, CSS, Bootstrap & JavaScript
 - **Database:** MySQL
 - **Familiar:** C, C++, Java, Python & ML
+
+## Experiences
+- Solved 400+ Problems at Various Online Judges.
+- Designed Portfolio Template and more.
+- Developed Ebook E-commerce, Inventory, Blog Applications, and More.
 
 ## Currently doing
 - 💬 I’m currently developing [Inventory Management System](https://github.com/mdruhulkuddus/Inventory-Management-System-POS/)
