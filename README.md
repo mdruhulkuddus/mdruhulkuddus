@@ -10,7 +10,7 @@
 
 ## Experiences
 - Solved 400+ Problems at Various Online Judges.
-- Designed [Portfolio](https://github.com/mdruhulkuddus/Design-Projects/tree/master/Portfolio/) Template, Landing Page and More.
+- Designed [Portfolio](https://github.com/mdruhulkuddus/Design-Projects/tree/master/Portfolio/) Template, Landing Page and [More](https://github.com/mdruhulkuddus/Design-Projects/tree/master/).
 - Developed [Ebook E-commerce](https://github.com/mdruhulkuddus/EbookShare/), [Inventory (POS)](https://github.com/mdruhulkuddus/Inventory-Management-System-POS/), [Todo](https://github.com/mdruhulkuddus/inilabtask/tree/master/TodoApp/) Blog Applications, and [More](https://github.com/mdruhulkuddus/Laravel-Projects/).
 
 ## Currently doing
