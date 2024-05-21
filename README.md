@@ -3,10 +3,9 @@
 
 ## Skills
 - OOP, Data Structures and algorithms, Programming Fundamentals, Problem Solving, Competitive Programming.
-- **Expertise (BackEnd):** PHP & Laravel
-- **FrontEnd:** HTML, CSS, Bootstrap & JavaScript
+- **Expertise (BackEnd):** PHP & Laravel, Java, Spring Boot
+- **FrontEnd:** React, HTML, CSS, Bootstrap & JavaScript
 - **Database:** MySQL
-- **Learning:** Java, Spring Boot, React
 - **Familiar:** C, C++, Python & ML
 
 ## Experiences
@@ -16,7 +15,7 @@
 
 ## Currently doing
 - 💬 I’m currently developing [Inventory Management System](https://github.com/mdruhulkuddus/Inventory-Management-System-POS/)
-- 💻 Learning about **Programming Fundamentals**
+- 💻 Learning about **React, Java and Spring Boot**
 - 👁‍🗨 Focusing on **software engineering best practices**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdruhulkuddus&label=Profile%20views&color=0e75b6&style=flat" alt="mdruhulkuddus" /> </p>
 
