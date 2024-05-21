@@ -15,7 +15,7 @@
 
 ## Currently doing
 - 💬 I’m currently developing [Inventory Management System](https://github.com/mdruhulkuddus/Inventory-Management-System-POS/)
-- 💻 Learning about **React, Java and Spring Boot**
+- 💻 Learning about **Javascript & React, Java & Spring Boot**
 - 👁‍🗨 Focusing on **software engineering best practices**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdruhulkuddus&label=Profile%20views&color=0e75b6&style=flat" alt="mdruhulkuddus" /> </p>
 
