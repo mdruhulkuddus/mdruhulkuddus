@@ -6,7 +6,8 @@
 - **Expertise (BackEnd):** PHP & Laravel
 - **FrontEnd:** HTML, CSS, Bootstrap & JavaScript
 - **Database:** MySQL
-- **Familiar:** C, C++, Java, Python & ML
+- **Learning:** Java, Spring Boot, React
+- **Familiar:** C, C++, Python & ML
 
 ## Experiences
 - Solved [400+](https://github.com/mdruhulkuddus/Code-Library) Problems at Various Online Judges.
