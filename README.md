@@ -3,7 +3,8 @@
 
 ## Skills
 - OOP, Data Structures and algorithms, Programming Fundamentals, Problem Solving, Competitive Programming.
-- **Expertise (BackEnd):** PHP & Laravel, JavaScript, Java and WordPress
+- **Languages:** PHP, Java, and JavaScript
+- **Expertise (BackEnd):** PHP & Laravel, JavaScript, and WordPress
 - **FrontEnd:** React, HTML, CSS, Bootstrap and Tailwind 
 - **Database:** MySQL
 - **Familiar:** C, C++, Python & ML
