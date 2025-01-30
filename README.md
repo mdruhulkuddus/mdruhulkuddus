@@ -10,7 +10,7 @@
 - **Familiar:** C, C++, Python & ML
 
 ## Experiences
-- Solved [400+](https://github.com/mdruhulkuddus/Code-Library) Problems at Various Online Judges.
+- Solved [500+](https://github.com/mdruhulkuddus/Code-Library) Problems at Various Online Judges.
 - Designed [Portfolio](https://github.com/mdruhulkuddus/Design-Projects/tree/master/Portfolio/) Template, Landing Page and [More](https://github.com/mdruhulkuddus/Design-Projects/tree/master/).
 - Developed [Ebook E-commerce](https://github.com/mdruhulkuddus/EbookShare/), [Inventory (POS)](https://github.com/mdruhulkuddus/Inventory-Management-System-POS/), [Todo](https://github.com/mdruhulkuddus/inilabtask/tree/master/TodoApp/) Blog Applications, and [More](https://github.com/mdruhulkuddus/Laravel-Projects/).
 
