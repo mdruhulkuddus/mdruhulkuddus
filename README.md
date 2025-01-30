@@ -1,5 +1,5 @@
 <h2 align="left">Md. Ruhul Kuddus - Programmer</h2>
-<p align="justify">I'm a learner. I'm a self-motivated and passionate problem solver, and I participated in several programming contests including ICPC. I'm also enthusiastic about modern software development and have expertise in different frameworks and libraries. My goal is to be the best software engineer. I can think and work under pressure. I'm doing my best for my career.</p>
+<p align="justify">I’m a self-motivated and passionate learner with a strong problem-solving mindset. Enthusiastic about modern software development, I have hands-on experience with various frameworks and libraries. My goal is to become a productive software engineer, focusing on continuous growth, learning, and improvement.</p>
 
 ## Skills
 - OOP, Data Structures and algorithms, Programming Fundamentals, Problem Solving, Competitive Programming.
