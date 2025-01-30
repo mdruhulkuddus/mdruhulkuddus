@@ -16,8 +16,8 @@
 
 ## Currently doing
 - 💬 I’m currently developing [React Bangla Tutorial](https://github.com/mdruhulkuddus/react-bangla-tutorial)
-- 💻 Learning about **Javascript & React, Laravel, Spring Boot**
-- 👁‍🗨 Focusing on **software engineering best practices**
+- 💻 Learning about **React, Laravel, TailwindCSS, and PostgreSQL**
+- 👁‍🗨 Focusing on **Software engineering best practices**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdruhulkuddus&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdruhulkuddus&show_icons=true&locale=en" alt="overview" /></p>
