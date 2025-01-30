@@ -21,4 +21,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdruhulkuddus&label=Profile%20views&color=0e75b6&style=flat" alt="mdruhulkuddus" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdruhulkuddus&show_icons=true&locale=en" alt="mdruhulkuddus" /></p>
-<p>[![GitHub Streak](https://streak-stats.demolab.com/?user=mdruhulkuddus&theme=dark)](https://git.io/streak-stats)</p>
+<p>[(https://streak-stats.demolab.com/?user=mdruhulkuddus&theme=dark)](https://git.io/streak-stats)</p>
