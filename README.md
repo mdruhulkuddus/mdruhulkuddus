@@ -6,8 +6,8 @@
 - **Languages:** PHP, Java, and JavaScript
 - **Expertise (BackEnd):** PHP & Laravel, JavaScript, and WordPress
 - **FrontEnd:** React, HTML, CSS, Bootstrap and Tailwind 
-- **Database:** MySQL
-- **Familiar:** C, C++, Python & ML
+- **Database:** MySQL, PostgreSQL
+- **Familiar:** C, C++, Java, Python & ML
 
 ## Experiences
 - Solved [500+](https://github.com/mdruhulkuddus/Code-Library) Problems at Various Online Judges.
