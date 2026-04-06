@@ -4,10 +4,10 @@
 ## Skills
 - OOP, Data Structures and algorithms, Programming Fundamentals, Problem Solving, Competitive Programming.
 - **Languages:** PHP, Java, and JavaScript
-- **Expertise (BackEnd):** PHP & Laravel, JavaScript, and WordPress
+- **Expertise (BackEnd):** PHP & Laravel, Spring Boot, JavaScript, and WordPress
 - **FrontEnd:** React, HTML, CSS, Bootstrap and Tailwind 
 - **Database:** MySQL, PostgreSQL
-- **Familiar:** C, C++, Java, Python & ML
+- **Familiar:** C, C++, Java, Python & ML, AI tools
 
 ## Experiences
 - Solved [500+](https://github.com/mdruhulkuddus/Code-Library) Problems at Various Online Judges.
@@ -15,8 +15,8 @@
 - Developed [Ebook E-commerce](https://github.com/mdruhulkuddus/EbookShare/), [Inventory (POS)](https://github.com/mdruhulkuddus/Inventory-Management-System-POS/), [Todo](https://github.com/mdruhulkuddus/inilabtask/tree/master/TodoApp/) Blog Applications, and [More](https://github.com/mdruhulkuddus/Laravel-Projects/).
 
 ## Currently doing
-- 💬 I’m currently developing [React Bangla Tutorial](https://github.com/mdruhulkuddus/react-bangla-tutorial)
-- 💻 Learning about **React, Laravel, TailwindCSS, and PostgreSQL**
+- 💬 I’m currently working on DSHE(DMS)
+- 💻 Learning about **React, TailwindCSS, and PostgreSQL, Spring Boot and AI tools**
 - 👁‍🗨 Focusing on **Software engineering best practices**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdruhulkuddus&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
 
