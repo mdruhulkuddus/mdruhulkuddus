@@ -16,7 +16,7 @@
 
 ## Currently doing
 - 💬 I’m currently working on DSHE(DMS)
-- 👀 Developing [Clean Code Bangla](https://mdruhulkuddus.github.io/clean-code-bangla/)
+- 👀 Developing [Clean Code Bangla](https://mdruhulkuddus.github.io/clean-code-bangla/) and [AI tools directory](https://github.com/mdruhulkuddus/awesome-free-ai-tools/)
 - 💻 Learning about **React, TailwindCSS, and PostgreSQL, Spring Boot and AI tools**
 - 👁‍🗨 Focusing on **Software engineering best practices**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdruhulkuddus&label=Profile%20views&color=0e75b6&style=flat" alt="views" /> </p>
